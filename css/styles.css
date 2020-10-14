@@ -1,3 +1,22 @@
 .column {
-  
+  width: 300px;
+  float: left;
+}
+
+.images {
+  float: right;
+}
+
+img {
+  width: 300px;
+  float: right;
+}
+
+.column h2 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: purple;
+}
+
+.column p {
+  font-family: Arial;
 }
